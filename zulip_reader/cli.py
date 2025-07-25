@@ -1,5 +1,5 @@
 import click
-from main import (
+from zulip_reader.main import (
     ZulipClient,
     UnreadMessagesFetcher,
     TopicMessagesFetcher,
